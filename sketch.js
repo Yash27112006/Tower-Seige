@@ -67,7 +67,6 @@ function setup() {
   block48 = new Block(1082,135,35,135);
 
   block50 = new Block(510,180,40,49);
-  block51 = new Block(560,190,45,100);
   block52 = new Block(720,230,40,70);
   block53 = new Block(620,200,40,49);
   block54 = new Block(670,160,48,100);
@@ -132,7 +131,6 @@ function draw() {
  block47.display();
  block48.display();
  fill("yellow");
- block51.display();
  block50.display();
  block52.display();
  block53.display();
